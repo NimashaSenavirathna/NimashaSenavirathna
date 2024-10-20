@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Web Desktop Developer | Mobile App Developer | Competitive Programmer 🚀</h3>
 
 <div>
-  <img width="35%" align="right" alt="PIC" height="300px" src="https://res.cloudinary.com/dgtbkkzzb/image/upload/v1729418545/niclas-illg-FJ5e_2f96h4-unsplash_bzynhh.jpg" />
+  <img width="35%" align="right" alt="PIC" height="300px" src="https://res.cloudinary.com/dgtbkkzzb/image/upload/v1729419271/roozbeh-eslami-YlVjrBkfXt8-unsplash_l8lkdh.jpg" />
   <div align="left"> <br>
     <h3> 👨🏻‍💻 About Me </h3>
     <ul>
