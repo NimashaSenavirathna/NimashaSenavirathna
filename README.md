@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Web Desktop Developer | Mobile App Developer | Competitive Programmer 🚀</h3>
 
 <div>
-  <img width="35%" align="right" alt="PIC" height="300px" src="![niclas-illg-FJ5e_2f96h4-unsplash](https://github.com/user-attachments/assets/55ee4ca5-0aee-4c29-beaf-9aafef6add56)" />
+  <img width="35%" align="right" alt="PIC" height="300px" src="https://res.cloudinary.com/dgtbkkzzb/image/upload/v1729418545/niclas-illg-FJ5e_2f96h4-unsplash_bzynhh.jpg" />
   <div align="left"> <br>
     <h3> 👨🏻‍💻 About Me </h3>
     <ul>
